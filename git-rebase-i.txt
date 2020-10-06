@@ -1,0 +1,14 @@
+Sur dev : 
+  - git commit -am "dev1"
+  - git commit -am "dev2"
+  - git commit -am "dev3"
+
+  - git rebase -i HEAD~3
+  - indiquer les options du rebase, dans notre cas : 
+    - r SHA1 dev1
+    - f SHA1 dev2
+    - f SHA1 dev3
+    :wq
+   - fenêtre qui s'ouvre, avec message de commit. On renomme le commit.
+   :wq
+   - C'EST FINI !
