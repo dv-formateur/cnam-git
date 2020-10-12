@@ -10,8 +10,7 @@
 - Celle-ci est également très bien : https://www.atlassian.com/fr/git/tutorials
 - Une série de recettes Git, très utile: https://github.com/k88hudson/git-flight-rules
 
-# Eval 
-https://docs.google.com/forms/d/1KeX-XEZm2EqduX66CAzbX6kiH7l06-oewcD6HEfV76U
+
 
 
 
